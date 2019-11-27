@@ -1,6 +1,6 @@
 package dev.fanger.inet.rip.Routing;
 
-import static Tools.EMath.getDistance;
+import static dev.fanger.inet.rip.Tools.EMath.getDistance;
 
 import java.util.HashMap;
 

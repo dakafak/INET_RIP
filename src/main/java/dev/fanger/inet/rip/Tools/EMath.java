@@ -1,4 +1,4 @@
-package Tools;
+package dev.fanger.inet.rip.Tools;
 
 /**
  * @author Dakafak
